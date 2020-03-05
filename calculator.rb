@@ -4,3 +4,4 @@ second_number = 2
 
 sum = 9
 difference = 5
+product = 14
